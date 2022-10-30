@@ -59,6 +59,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 
 ### Show some ❤️ by starring some of the repositories!
-
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" /> </p>
 </div>
 
